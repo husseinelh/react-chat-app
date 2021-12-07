@@ -54,7 +54,7 @@ export default function Chat() {
     }, [])
 
     return (
-        <div>
+        <div className='App'>
             <div className='header block glow'>
                 Superchat!
             </div>
