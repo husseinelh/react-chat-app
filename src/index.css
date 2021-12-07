@@ -269,4 +269,9 @@ img {
   width: 120px;
 }
 
+.App {
+  text-align: center;
+  max-width: 728px;
+  margin: 0 auto;
+}
 
