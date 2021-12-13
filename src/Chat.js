@@ -55,7 +55,7 @@ export default function Chat() {
 
     return (
         <div className='App'>
-        *App development still in progress*
+        <p>*App development still in progress*</p>
             <div className='header block glow'>
                 Superchat!
             </div>
